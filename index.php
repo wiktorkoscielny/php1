@@ -10,6 +10,8 @@
 <?php
 	$name = "Joanna";
 	echo "Welcome ".$name;
+	echo "Welcome $name";
+	echo $name." Welcome!";
 ?>
 	
 </body>
