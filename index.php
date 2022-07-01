@@ -7,7 +7,10 @@
 
 <body>
 
-	
+<?php
+	$name = "Joanna";
+	echo "Welcome ".$name;
+?>
 	
 </body>
 </html>
