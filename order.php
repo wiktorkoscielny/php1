@@ -29,12 +29,7 @@ echo<<<END
     </table>
     <br />
     <a href="index.php">Go back</a>
-    
-
-
 END;
-
-
 
 ?>
 
